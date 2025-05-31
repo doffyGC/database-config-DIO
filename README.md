@@ -99,7 +99,7 @@ Este repositório foi criado para documentar minha experiência configurando ser
 
 - Conceitos essenciais sobre Azure SQL e outros serviços  
 - Instruções passo a passo de configuração  
-- Dicas úteis, capturas de tela e recursos complementares  
+- Dicas úteis e recursos complementares  
 
 ---
 
